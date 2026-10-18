@@ -6,4 +6,4 @@ This repository contains my solutions to Python programming exercises on HackerR
 Contents:
 - README.md: Description of this repository
 - scripts.py: Python solutions to the completed exercises
-- printouts/: Screenshots showing successfully completed HackerRank exercises
+- printouts/: Pdf showing successfully completed HackerRank exercises
